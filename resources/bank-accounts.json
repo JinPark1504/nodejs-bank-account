@@ -1,0 +1,58 @@
+[
+   {
+      "name": "Alice",
+      "balance": {
+         "issuedNation": "USA",
+         "amount": 1080.94
+      }
+   },
+   {
+      "name": "Wang",
+      "balance": {
+         "issuedNation": "China",
+         "amount": 2926.49
+      }
+   },
+   {
+      "name": "Tosiro",
+      "balance": {
+         "issuedNation": "Japan",
+         "amount": 1254.48
+      }
+   },
+   {
+      "name": "Vitoria",
+      "balance": {
+         "issuedNation": "Estonia",
+         "amount": 2980.51
+      }
+   },
+   {
+      "name": "Paul",
+      "balance": {
+         "issuedNation": "Canada",
+         "amount": 3026.14
+      }
+   },
+   {
+      "name": "Tom",
+      "balance": {
+         "issuedNation": "USA",
+         "amount": 3040
+      }
+   },
+   {
+      "name": "Karl",
+      "balance": {
+         "issuedNation": "Cyprus",
+         "amount": 2950.34
+      }
+   },
+   {
+      "name": "Jin",
+      "balance": {
+         "issuedNation": "Republic of Korea",
+         "amount": 120000
+      }
+   }
+]
